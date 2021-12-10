@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MG Admin</string>
+    <string name="deposit">Deposit</string>
+    <string name="withdrawal">Withdrawal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userdetail">User Details</string>
+    <string name="payments">Payments</string>
+    <string name="transactionId">Enter Transaction ID</string>
+    <string name="upi">upi</string>
+    <string name="tasks">tasks</string>
+    <string name="upiUpdateText">Enter Updated Upi</string>
+</resources>

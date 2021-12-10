@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@mipmap/deposit_foreground"
+        android:id="@+id/deposit"
+        android:title="@string/deposit" />
+    <item
+        android:icon="@mipmap/withdraw_foreground"
+        android:id="@+id/withdrawal"
+        android:title="@string/withdrawal" />
+</menu>
